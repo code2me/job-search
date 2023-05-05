@@ -2,7 +2,7 @@ const NavBar = () => {
   return (
     <div className="navBar flex justify-between items-center p-[3rem]">
       <div className="logoDiv">
-        <h1 className="logo text-[25px] text-blueColor">
+        <h1 className="logo text-[30px] text-blueColor">
           <strong>Job</strong>Search
         </h1>
       </div>

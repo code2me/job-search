@@ -3,7 +3,7 @@ import { FaHandHoldingHeart } from 'react-icons/fa'
 import { BsShieldFillCheck } from 'react-icons/bs'
 const Value = () => {
   return (
-    <div className="mb-[4rem] mt-[6rem]">
+    <div className="mb-[4rem] mt-[6rem] card1">
       <h1 className="text-textColor text-[25px] py-[2rem] pb-[3rem] font-bold w-[400px] block">
         The value that holds us true and to account
       </h1>
@@ -32,7 +32,7 @@ const Value = () => {
             </div>
 
             <span className="font-semibold text-textColor text-[18px]">
-              Simplicity
+              Community
             </span>
           </div>
           <p className="text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold">
@@ -48,26 +48,26 @@ const Value = () => {
             </div>
 
             <span className="font-semibold text-textColor text-[18px]">
-              Simplicity
+              Secure
             </span>
           </div>
           <p className="text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold">
-            Things being made beautiful and simple are at the heart of
-            everything we do.
+            We give gives potential candidates clarity on what the employer
+            expects.
           </p>
         </div>
       </div>
 
-      <div className="card mt-[2rem] flex justify-between bg-blueColor p-[5rem] rounded-[10px]">
+      <div className="card2 mt-[2rem] flex justify-between bg-blueColor p-[5rem] rounded-[10px]">
         <div>
           <h1 className="text-blueColor text-[30px] font-bold">
             Ready to switch a career?
           </h1>
           <h2 className="text-textColor text-[25px] font-bold">
-            Let`&apos;`s get started!
+            Let&apos;s get started!
           </h2>
         </div>
-        <button className="border-[2px] rounded-[10px] py-[4px] px-[50px] text-18px] font-semibold text-blueColor hover:bg-white border-blueColor">
+        <button className="border-[2px] rounded-[10px] py-[4px] px-[40px] text-[18px] font-semibold colorful-button">
           Get Started
         </button>
       </div>
