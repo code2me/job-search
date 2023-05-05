@@ -61,7 +61,7 @@ const Data = [
         time: "Now",
         location: "London, UK",
         desc: "We are looking for a talented Product Designer to create user-centered designs for our products. The ideal candidate will have a strong understanding of design principles, excellent communication skills, and a passion for user experience.",
-        company: "Centered",
+        company: "Microsoft",
     },
     {
         id: 5,
