@@ -6,7 +6,7 @@ import Value from "./components/ValueDiv/Value"
 
 const App = () => {
   return (
-    <div className="-[85%] m-auto bg-white">
+    <div className="w-[75%] m-auto bg-white">
       <NavBar/>
       <Search/>
       <Jobs/>
