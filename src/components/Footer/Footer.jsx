@@ -16,7 +16,7 @@ const Footer = () => {
         </p>
       </div>
 
-      <div className="grid">
+      <div className="grid justify-center">
         <span className="divTitle text-[18px] font-semibold pd-[1.5rem] text-white">
           Company
         </span>
@@ -32,7 +32,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="grid">
+      <div className="grid justify-center">
         <span className="divTitle text-[18px] font-semibold pd-[1.5rem] text-white">
           Resources
         </span>
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="grid">
+      <div className="grid justify-center">
         <span className="divTitle text-[18px] font-semibold pd-[1.5rem] text-white">
           Support
         </span>
@@ -76,7 +76,7 @@ const Footer = () => {
             </a>
           </small>
           <small className="text-[14px] opacity-[.7] text-white hover:opacity-[1]">
-            navneetbahuguna@outlook.com
+            contact@jobsearch.com
           </small>
           <div className="icons flex gap-4 py-[1rem]">
             <AiFillInstagram className="bg-white p-[8px] h-[35px] w-[35px] rounded-full icon text-blueColor hover:text-textColor" />
